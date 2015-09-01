@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Rsrc-Class-Path: ./ commons-compress-1.9.jar commons-io-2.4.jar icu4j-
+ 55_1.jar
+Class-Path: .
+Rsrc-Main-Class: com.jfbyers.utils.zip.Profiler
