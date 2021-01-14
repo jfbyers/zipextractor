@@ -144,7 +144,7 @@ public class Profiler {
 		return !outputFilePath.trim().endsWith("/");
 	}
 
-	private static String fromStringToPath(final String strPath) {
+	 static String fromStringToPath(final String strPath) {
 		if (strPath == null) {
 			throw new IllegalArgumentException();
 		}
